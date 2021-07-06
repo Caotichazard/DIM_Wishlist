@@ -1,0 +1,545 @@
+title:CaoticHazard PVE Currated Wishlist
+description:Set of desired rolls, focused on PVE. Mostly includes new weapons, will update each season. The idea is to give the most general roll for each weapon, so you dont need to look for those 5/5 weapons, unless the only possible roll is that 5/5. WILL NOT INCLUDE the playlist weapons that have too many rolls *unless* they have a absolute god roll.
+
+// Auto Rifles
+// Note: most autorifles would benefit from appended mag, no stat penalty and more ammo. Did not include any 360s as they are not good enough for pve, faster firing is always better.
+
+//Artic Haze
+dimwishlist:item=20935540&perks=2420895100,1820235745,2848615171
+
+//Gnawing Hunger
+dimwishlist:item=821154603&perks=2869569095
+dimwishlist:item=821154603&perks=1820235745,3425386926
+dimwishlist:item=821154603&perks=1820235745,3523296417
+
+//Chroma rush
+dimwishlist:item=1119734784&perks=1820235745,3425386926
+dimwishlist:item=1119734784&perks=1820235745,11612903
+dimwishlist:item=1119734784&perks=2779035018,11612903
+dimwishlist:item=1119734784&perks=2779035018,1015611457
+dimwishlist:item=1119734784&perks=3592538738
+
+// Seventh Seraph Carbine
+dimwishlist:item=1561006927&perks=1354429876,3425386926
+
+//Foward Path
+dimwishlist:item=1690783811&perks=2779035018,2458213969
+
+//Summoner
+dimwishlist:item=1907698332&perks=3643424744,2848615171
+dimwishlist:item=1907698332&perks=3643424744,3425386926
+
+//Summoner (Adept)
+dimwishlist:item=3514144928&perks=3643424744,2848615171
+dimwishlist:item=3514144928&perks=3643424744,3425386926
+
+//ShadowPrice
+dimwishlist:item=2633186522&perks=3643424744,2848615171
+dimwishlist:item=2633186522&perks=2779035018,2848615171
+
+//ShadowPrice (Adept)
+dimwishlist:item=2147010335&perks=3643424744,2848615171
+dimwishlist:item=2147010335&perks=2779035018,2848615171
+
+//The number
+dimwishlist:item=2492081469&perks=2869569095,2458213969
+dimwishlist:item=2492081469&perks=2869569095,4049631843
+dimwishlist:item=2492081469&perks=3436462433,4049631843
+dimwishlist:item=2492081469&perks=3436462433,3592538738
+
+//Reckless Oracle
+dimwishlist:item=3385326721&perks=3300816228,3523296417
+dimwishlist:item=3385326721&perks=1168162263,3523296417
+dimwishlist:item=3385326721&perks=1168162263,1015611457
+
+
+// Hand Cannons
+
+//Ancient Gospel
+dimwishlist:item=48643186&perks=1168162263,2848615171
+dimwishlist:item=48643186&perks=247725512,2848615171
+dimwishlist:item=48643186&perks=247725512,1015611457
+dimwishlist:item=48643186&perks=1168162263,1015611457
+
+
+// Waking Vigil
+dimwishlist:item=334171687&perks=1168162263,2848615171
+dimwishlist:item=334171687&perks=247725512,2848615171
+dimwishlist:item=334171687&perks=247725512,1015611457
+dimwishlist:item=334171687&perks=1168162263,1015611457
+
+//Palindrome
+dimwishlist:item=432476743&perks=1820235745,3425386926
+dimwishlist:item=432476743&perks=1820235745,3425386926
+dimwishlist:item=432476743&perks=1820235745,3425386926
+dimwishlist:item=432476743&perks=3643424744,4049631843
+
+//Palindrome (Adept)
+dimwishlist:item=1481892490&perks=1820235745,3425386926
+dimwishlist:item=1481892490&perks=1820235745,3425386926
+dimwishlist:item=1481892490&perks=1820235745,3425386926
+dimwishlist:item=1481892490&perks=3643424744,4049631843
+
+//Nation of beasts
+dimwishlist:item=654370424&perks=1168162263,3425386926
+dimwishlist:item=654370424&perks=1168162263,3038247973
+dimwishlist:item=654370424&perks=1168162263,2848615171
+dimwishlist:item=654370424&perks=1168162263,1015611457
+
+
+//Ikelos HC
+dimwishlist:item=1200824700&perks=3425386926
+
+//Fatebringer
+dimwishlist:item=2171478765&perks=3038247973,3824105627
+dimwishlist:item=2171478765&perks=3038247973,3824105627
+dimwishlist:item=2171478765&perks=3418782618,4104185692
+dimwishlist:item=2171478765&perks=3038247973,1015611457
+dimwishlist:item=2171478765&perks=1774574192,11612903
+
+//Fatebringer (Timelost)
+dimwishlist:item=1216319404&perks=3038247973,3824105627
+dimwishlist:item=1216319404&perks=3038247973,3824105627
+dimwishlist:item=1216319404&perks=3418782618,4104185692
+dimwishlist:item=1216319404&perks=3038247973,1015611457
+dimwishlist:item=1216319404&perks=1774574192,11612903
+
+//Nature of the beast
+dimwishlist:item=1835747805&perks=1820235745,2848615171
+dimwishlist:item=1835747805&perks=1820235745,3523296417
+
+//The steady Hand
+dimwishlist:item=2220884262&perks=1168162263,3592538738
+
+//Igneous Hammer
+dimwishlist:item=2351180975&perks=1820235745,3425386926
+dimwishlist:item=2351180975&perks=247725512,3425386926
+dimwishlist:item=2351180975&perks=1168162263,3425386926
+dimwishlist:item=2351180975&perks=247725512,4049631843
+
+//Igneous Hammer (Adept)
+dimwishlist:item=2527666306&perks=1820235745,3425386926
+dimwishlist:item=2527666306&perks=247725512,3425386926
+dimwishlist:item=2527666306&perks=1168162263,3425386926
+dimwishlist:item=2527666306&perks=247725512,4049631843
+
+//True prophecy
+dimwishlist:item=2742838700&perks=3643424744
+dimwishlist:item=2742838700&perks=2869569095
+
+//Seventh Seraph
+dimwishlist:item=3037520408&perks=1954620775
+dimwishlist:item=3037520408&perks=1774574192
+dimwishlist:item=3037520408&perks=2779035018
+dimwishlist:item=3037520408&perks=2458213969
+
+//Pulse Rifles
+
+//Last Perdition
+dimwishlist:item=188882152&perks=1168162263
+
+//Premonition
+dimwishlist:item=208088207&perks=2779035018,3425386926
+
+//Chattering Bone
+dimwishlist:item=568515759&perks=1168162263,3425386926
+
+//Jian-7
+dimwishlist:item=1162247618&perks=1168162263
+dimwishlist:item=1162247618&perks=3425386926
+dimwishlist:item=1162247618&perks=2848615171
+
+//Cold denial
+dimwishlist:item=1216130969&perks=2779035018,2458213969
+
+//Gridskipper
+dimwishlist:item=1621558458&perks=2458213969
+dimwishlist:item=1621558458&perks=11612903
+dimwishlist:item=1621558458&perks=4104185692
+
+//Sacred Provenance
+dimwishlist:item=2408405461&perks=1015611457
+
+//Hailing Confusion
+dimwishlist:item=2870169846&perks=3523296417
+dimwishlist:item=2870169846&perks=3592538738
+
+//Time-worn Spire 
+dimwishlist:item=3593598010&perks=2779035018,3425386926
+dimwishlist:item=3593598010&perks=1820235745,3425386926
+dimwishlist:item=3593598010&perks=4049631843
+
+//Messenger
+dimwishlist:item=3658188704&perks=247725512,4049631843
+dimwishlist:item=3658188704&perks=247725512,3047969693
+dimwishlist:item=3658188704&perks=247725512,1015611457
+dimwishlist:item=3658188704&perks=1168162263,3047969693
+dimwishlist:item=3658188704&perks=1168162263,1015611457
+
+//Messenger(Adept)
+dimwishlist:item=1173780905&perks=247725512,4049631843
+dimwishlist:item=1173780905&perks=247725512,3047969693
+dimwishlist:item=1173780905&perks=247725512,1015611457
+dimwishlist:item=1173780905&perks=1168162263,3047969693
+dimwishlist:item=1173780905&perks=1168162263,1015611457
+
+//Scout Rifles
+//Trustee
+dimwishlist:item=1392919471&perks=1523832109,3592538738
+dimwishlist:item=1392919471&perks=1168162263,3592538738
+dimwishlist:item=1392919471&perks=3436462433,3592538738
+
+//Guiding sight
+dimwishlist:item=1641430382&perks=247725512,4049631843
+dimwishlist:item=1641430382&perks=3436462433,4049631843
+
+//talons of the eagle
+dimwishlist:item=1982711279&perks=3425386926
+dimwishlist:item=1982711279&perks=3038247973
+
+//Royal chase
+dimwishlist:item=2776503072&perks=2848615171
+dimwishlist:item=2776503072&perks=2458213969
+
+//Visions of Confluence
+dimwishlist:item=3186018373&perks=3418782618,3824105627
+dimwishlist:item=3186018373&perks=3418782618,4104185692
+dimwishlist:item=3186018373&perks=3436462433,1015611457
+dimwishlist:item=3186018373&perks=3592538738
+
+//Visions of Confluence (Timelost)
+dimwishlist:item=690668916&perks=3418782618,3824105627
+dimwishlist:item=690668916&perks=3418782618,4104185692
+dimwishlist:item=690668916&perks=3436462433,1015611457
+dimwishlist:item=690668916&perks=3592538738
+
+//Vouchsafe
+dimwishlist:item=3242168339&perks=247725512,3038247973
+dimwishlist:item=3242168339&perks=1354429876,3038247973
+
+dimwishlist:item=3242168339&perks=247725512,2458213969
+dimwishlist:item=3242168339&perks=247725512,2848615171
+dimwishlist:item=3242168339&perks=247725512,3592538738
+
+dimwishlist:item=3242168339&perks=1168162263,2458213969
+dimwishlist:item=3242168339&perks=1168162263,2848615171
+dimwishlist:item=3242168339&perks=1168162263,3592538738
+
+//Nightwatch
+dimwishlist:item=3504336176&perks=247725512,3038247973
+dimwishlist:item=3504336176&perks=1820235745,3425386926
+dimwishlist:item=3504336176&perks=1820235745,3523296417
+dimwishlist:item=3504336176&perks=1168162263,2458213969
+dimwishlist:item=3504336176&perks=247725512,2458213969
+
+//Eternal Blazon
+dimwishlist:item=3514096004&perks=247725512,4049631843
+dimwishlist:item=3514096004&perks=3643424744,4049631843
+dimwishlist:item=3514096004&perks=247725512,1015611457
+
+//Pleiades Corrector
+dimwishlist:item=3556999246&perks=3592538738
+dimwishlist:item=3556999246&perks=2458213969
+dimwishlist:item=3556999246&perks=3523296417
+dimwishlist:item=-3556999246&perks=1820235745,2458213969
+
+//HungJury
+dimwishlist:item=4281371574&perks=1820235745
+dimwishlist:item=4281371574&perks=247725512
+dimwishlist:item=4281371574&perks=3436462433
+
+//HungJury (Adept)
+dimwishlist:item=681067419&perks=1820235745
+dimwishlist:item=681067419&perks=247725512
+dimwishlist:item=681067419&perks=3436462433
+
+
+//SideArms
+
+//Fools Remedy
+dimwishlist:item=65611680&perks=2779035018,1015611457
+
+//Farewell
+dimwishlist:item=541188001&perks=1820235745,4104185692
+dimwishlist:item=541188001&perks=1820235745,11612903
+dimwishlist:item=541188001&perks=4267945040,2458213969
+
+//High Albedo
+dimwishlist:item=1197486957&perks=2010801679,3523296417
+dimwishlist:item=1197486957&perks=2010801679,3592538738
+dimwishlist:item=1197486957&perks=3436462433,3592538738
+
+//The Last Dance
+dimwishlist:item=2009277538&perks=1168162263,1015611457
+dimwishlist:item=2009277538&perks=1168162263,2848615171
+
+//Brass Attacks
+dimwishlist:item=2121785039&perks=247725512,4049631843
+dimwishlist:item=2121785039&perks=2779035018
+dimwishlist:item=2121785039&perks=3436462433,3592538738
+
+//Lonesome
+dimwishlist:item=2199171672&perks=1168162263
+dimwishlist:item=2199171672&perks=247725512
+
+//The Vision
+dimwishlist:item=2414141462&perks=3436462433,1015611457
+dimwishlist:item=2414141462&perks=3436462433,4049631843
+dimwishlist:item=2414141462&perks=3436462433,4082225868
+dimwishlist:item=2414141462&perks=2010801679,1015611457
+dimwishlist:item=2414141462&perks=2010801679,4049631843
+dimwishlist:item=2414141462&perks=2010801679,4082225868
+
+//Seventh Seraph Sidearm 
+dimwishlist:item=3937866388&perks=3708227201
+dimwishlist:item=3937866388&perks=2848615171
+
+//SubmachineGuns
+
+//Seventh Seraph VY-7
+dimwishlist:item=766323545&perks=2010801679,2848615171
+dimwishlist:item=766323545&perks=2010801679,2779035018
+dimwishlist:item=766323545&perks=1354429876,2848615171
+dimwishlist:item=766323545&perks=1354429876,2779035018
+
+//Extraordinary Rendition
+dimwishlist:item=-1097616550&perks=1820235745,2458213969
+dimwishlist:item=1097616550&perks=3643424744,4104185692
+dimwishlist:item=1097616550&perks=3643424744,3425386926
+dimwishlist:item=1097616550&perks=1820235745,3425386926
+dimwishlist:item=1097616550&perks=1820235745,4104185692
+
+//Cold Front
+dimwishlist:item=1506719573&perks=3436462433,4049631843
+dimwishlist:item=1506719573&perks=3436462433,3425386926
+dimwishlist:item=1506719573&perks=1820235745,4049631843
+dimwishlist:item=1506719573&perks=1820235745,3425386926
+dimwishlist:item=1506719573&perks=1820235745,4082225868
+
+//Friction Fire 
+dimwishlist:item=1513993763&perks=3425386926
+dimwishlist:item=1513993763&perks=3425386926
+
+//Escape Velocity
+dimwishlist:item=1786797708&perks=3643424744,3708227201
+dimwishlist:item=1786797708&perks=4071163871,3708227201
+
+//Ikelos SMG 
+dimwishlist:item=2222560548&perks=4071163871,3708227201
+dimwishlist:item=2222560548&perks=4071163871,3523296417
+dimwishlist:item=2222560548&perks=1820235745,3708227201
+dimwishlist:item=2222560548&perks=1820235745,3523296417
+
+//Stochastic Variable
+dimwishlist:item=2272470786&perks=3436462433,2848615171
+dimwishlist:item=2272470786&perks=3436462433,2458213969
+dimwishlist:item=2272470786&perks=3436462433,3592538738
+dimwishlist:item=2272470786&perks=2010801679,2848615171
+dimwishlist:item=2272470786&perks=2010801679,2458213969
+dimwishlist:item=2272470786&perks=2010801679,3592538738
+dimwishlist:item=2272470786&perks=2779035018,2848615171
+dimwishlist:item=2272470786&perks=2779035018,2458213969
+dimwishlist:item=2272470786&perks=2779035018,3592538738
+
+//Death Adder
+dimwishlist:item=2742490609&perks=2779035018,2848615171
+dimwishlist:item=2742490609&perks=3300816228,2848615171
+dimwishlist:item=2742490609&perks=1820235745,2848615171
+
+//Shayura's Wrath
+dimwishlist:item=3682803680&perks=1015611457
+dimwishlist:item=3682803680&perks=11612903
+
+//Shayura's Wrath (Adept)
+dimwishlist:item=4023807721&perks=1015611457
+dimwishlist:item=4023807721&perks=11612903
+
+
+//Bows
+dimwishlist:item=3317538576&perks=3365897133#notes:Bows are meh, but any bow with explosive tip is good for champions.
+dimwishlist:item=3317538576&perks=201365942#notes:Bows are meh, but any bow with archers tempo is good for champions.
+dimwishlist:item=3317538576&perks=201365942,3365897133#notes:Bows are meh, but any bow with archers tempo and explosive tip is the best for champions.
+
+
+
+
+//Shotguns
+dimwishlist:item=11&perks=791862061,3300816228,1546637391#notes: Shotguns in general are not the best in PVE, EXCEPT slug shotguns. IF the shotgun is Slug and has assualt mag,auto-loading + vorpal, god roll. 
+dimwishlist:item=11&perks=3300816228,1546637391#notes: Shotguns in general are not the best in PVE, EXCEPT slug shotguns. IF the shotgun is Slug and has assualt mag,auto-loading + vorpal, god roll. 
+
+dimwishlist:item=4248569242&perks=791862061,1523832109,469285294#notes: God roll kinetic shotgun
+dimwishlist:item=3616586446&perks=791862061,3300816228,1546637391#notes: God roll kinetic shotgun
+
+//Sniper Rifles
+
+//Uzume-4 
+dimwishlist:item=2065081837&perks=1087426260,3400784728,1546637391#notes:PVE god roll, needs the 3/3 for max ammo and dps, dont forget the backup mag mod 
+
+//Uzume-4 (Adept)
+dimwishlist:item=852228780&perks=1087426260,3400784728,1546637391#notes:PVE god roll, needs the 3/3 for max ammo and dps, dont forget the backup mag mod 
+
+//Supremacy
+dimwishlist:item=686951703&perks=1168162263,3400784728
+
+//Occluded Finality
+dimwishlist:item=852551895&perks=3300816228,1546637391
+
+//Far future
+dimwishlist:item=893527433&perks=1556840489
+dimwishlist:item=893527433&perks=3300816228
+
+//Ikelos SR
+dimwishlist:item=1253087083&perks=1354429876,2213355989
+dimwishlist:item=1253087083&perks=3400784728,2213355989
+
+//Widows Bite
+dimwishlist:item=1271343896&perks=1556840489,3523296417
+dimwishlist:item=1271343896&perks=2779035018,3523296417
+
+//Apostate
+dimwishlist:item=2164448701&perks=1556840489,3038247973
+dimwishlist:item=2164448701&perks=1556840489,3592538738
+
+//Distant Tumulus
+dimwishlist:item=2807687156&perks=1556840489,1771339417
+dimwishlist:item=2807687156&perks=2284787283,1771339417
+
+//Sucession
+dimwishlist:item=2990047042&perks=1523832109,1546637391#notes: Higher mag is better.
+dimwishlist:item=2990047042&perks=1556840489,1546637391#notes: Higher mag is better.
+
+//Eye of sol
+dimwishlist:item=3164743584&perks=3436462433,1546637391
+
+//Eye of sol (Adept)
+dimwishlist:item=3637570176&perks=3436462433,1546637391
+
+//Bite of the Fox
+dimwishlist:item=3169616514&perks=247725512,2869569095
+dimwishlist:item=3169616514&perks=247725512,3038247973
+
+//Omniciscient Eye
+dimwishlist:item=3454326177&perks=1168162263,2848615171
+
+//Frozen Orbit
+dimwishlist:item=3473290087&perks=3400784728,1546637391
+dimwishlist:item=3473290087&perks=1087426260,3400784728,1546637391
+
+//Long Shadow
+dimwishlist:item=3745990145&perks=247725512,3400784728
+dimwishlist:item=3745990145&perks=2869569095,3400784728
+
+//Praedyth's Revenge
+dimwishlist:item=3653573172&perks=3418782618,2213355989#notes: Higher mag is better.
+
+//Praedyth's Revenge (Timelost)
+dimwishlist:item=1987769101&perks=3418782618,2213355989#notes: Higher mag is better.
+
+
+//Fusion Rifles
+//Fusion are not the hottest stuff right now but watch out for season 15. Right now only vorpal or high impact reserves are "notable" in pve.
+dimwishlist:item=9&perks=1427256713#notes: Any fusion with resevoir burst is good.
+dimwishlist:item=9&perks=2680121939,2213355989#notes: fusion rifles with high impact reserves and high mag size are good in VOG right now, easy to use and good damage.
+dimwishlist:item=9&perks=2213355989#notes: fusion rifles with high impact reserves and high mag size are good in VOG right now, easy to use and good damage.
+dimwishlist:item=9&perks=1546637391#notes: fusion rifles with vorpal and high mag size are good in VOG right now, easy to use and good damage.
+
+
+//Granade Launchers
+//Special launchers are top tier, heavy launchers are not the best right now.
+//Truthteller
+dimwishlist:item=1946491241&perks=3032599245,3300816228,1683379515#notes: absolute pve godroll.
+
+//Ignition Code
+dimwishlist:item=304659313&perks=3161816588#notes: slideshot is op, works with everything.
+
+//Deafening Whisper
+dimwishlist:item=981718087&perks=1556840489,3425386926#notes: wave frame, rampage is good + lead from gold for ammo efficiency.
+
+dimwishlist:item=153950757&perks=2396489472#notes: chain reaction is top tier.
+dimwishlist:item=153950757&perks=3032599245#notes: any launcher with blinding nades is op.
+dimwishlist:item=153950757&perks=3301904089#notes: any launcher with spike is good.
+
+
+//Rocket Launchers
+dimwishlist:item=13&perks=3300816228,3927722942#notes: god roll on any launcher. Royal entry is the best for the inate tracking.
+
+//Hezen Vengeance (Timelost)
+dimwishlist:item=1921159786&perks=3300816228,1546637391
+dimwishlist:item=1921159786&perks=3643424744,1546637391
+
+//Hezen Vengeance
+dimwishlist:item=4050645223&perks=3300816228,1546637391
+dimwishlist:item=4050645223&perks=3643424744,1546637391
+
+
+//Linear Fusion Rifles
+//LFR are not the best.
+
+//Threaded Needle
+dimwishlist:item=3075224551&perks=3300816228,1546637391#notes:only really notable LFR.
+
+
+//Machine Gun 
+
+//The Swarm
+dimwishlist:item=47772649&perks=3436462433,1546637391
+
+//The Swarm (Adept)
+dimwishlist:item=3836861464&perks=3436462433,1546637391
+
+//Avalanche
+dimwishlist:item=66875353&perks=3300816228,1546637391
+dimwishlist:item=66875353&perks=3300816228,2848615171
+dimwishlist:item=66875353&perks=3436462433,1546637391
+dimwishlist:item=66875353&perks=3436462433,1546637391
+
+//Thermal Erosion
+dimwishlist:item=1766088024&perks=2869569095,2848615171
+dimwishlist:item=1766088024&perks=2869569095,3592538738
+dimwishlist:item=1766088024&perks=2869569095,3523296417
+
+//Archons Thunder
+dimwishlist:item=1967303408&perks=2869569095,3425386926
+dimwishlist:item=1967303408&perks=3436462433,3425386926
+
+//Shattered Cipher
+dimwishlist:item=2434225986&perks=2869569095,3425386926
+dimwishlist:item=2434225986&perks=2869569095,11612903
+
+//Seventh Seraph SAW 
+dimwishlist:item=2582755344&perks=3300816228,1546637391
+
+//Commemoration
+dimwishlist:item=4230965989&perks=1523832109,3425386926
+dimwishlist:item=4230965989&perks=1523832109,2848615171
+dimwishlist:item=4230965989&perks=2779035018,3425386926
+dimwishlist:item=4230965989&perks=2779035018,2848615171
+
+//Corrective Measure
+dimwishlist:item=471518543&perks=3523296417,11612903
+dimwishlist:item=471518543&perks=3824105627
+
+//Corrective Measure (Timelost)
+dimwishlist:item=3796510434&perks=3523296417,11612903
+dimwishlist:item=3796510434&perks=3824105627
+
+
+//Swords
+// Only a few swords are really interesting, only going to include them.
+
+//Falling Guillotine
+dimwishlist:item=614426548&perks=2827049491,269888150,1749209109,3913600130#notes: absolute god roll.
+
+//Sola's Scar 
+dimwishlist:item=1313528549&perks=2590710093,2396489472#notes: seems interesting, IF I COULD GET ONE.
+
+//Sola's Scar (Adept)
+dimwishlist:item=3847137620&perks=2590710093,2396489472#notes: seems interesting, IF I COULD GET ONE.
+
+//Quickfang
+dimwishlist:item=2782325300&perks=354401740#notes: gotta go fast.
+
+//Crown-Splitter
+dimwishlist:item=2782325302&perks=2590710093,1546637391
+
+
